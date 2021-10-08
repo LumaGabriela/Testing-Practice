@@ -110,9 +110,6 @@ const analyze = (arr) => {
         return {average, min, max, length}
     }  
 }
-//const obj = analyze([1,2,3])
-console.log(analyze([-9, 4, 5, 7, 15]))
-console.log(ceasarCipher('pato, ato', 1))
 
 
 exports.calculator = calculator
